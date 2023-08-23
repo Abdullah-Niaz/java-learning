@@ -1,15 +1,19 @@
 # Learning Java from Scratch
 This repository documents my journey of learning Java from scratch. I'll be posting my learning progress, code samples, and projects related to Java programming in this repository.
 
-##Progress Log
-###Day 1: Introduction to Java
+<h2>Progress Log</h2>
+<h3>Day 1: Introduction to Java</h3>
 
-Installed Java Development Kit (JDK)
-Set up Visual Studio Code for Java development
-Wrote my first "Hello World" program
+<ul>
+    <li>Installed Java Development Kit (JDK)</li>
+    <li>Set up Visual Studio Code for Java development</li>
+    <li>Wrote my first "Hello World" program</li>
+</ul>
 
-###Day 2: Basics of Java Syntax
+<h3>Day 2: Basics of Java Syntax</h3>
 
-Learned about variables, data types, and operators
-Explored how to take user input using Scanner class
-Practiced basic arithmetic and logical operations
+<ul>
+    <li>Learned about variables, data types, and operators</li>
+    <li>Explored how to take user input using Scanner class</li>
+    <li>Practiced basic arithmetic and logical operations</li>
+</ul>
