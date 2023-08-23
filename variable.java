@@ -8,3 +8,17 @@ public class variable {
     }
 
 }
+
+// Data Types 
+    // - Primitive 
+        // - Char
+        // - float
+        // - int
+        // - double 
+        // - long
+        // - byte
+    // - Non-Primitive
+        // - class
+        // - object 
+        // - array
+        // - String
