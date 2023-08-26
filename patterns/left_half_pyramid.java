@@ -2,7 +2,7 @@ package patterns;
 
 import java.util.Scanner;
 
-public class half_pyramid {
+public class left_half_pyramid {
         public static void main(String[] arr){
         Scanner s = new Scanner(System.in);
         System.out.print("Enter the Numbers: ");
