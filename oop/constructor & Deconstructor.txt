@@ -1,0 +1,31 @@
+Constructor:
+    - It allocate the memory to the object.
+    - Constructor is automatically called when an object is created.
+    - Name of the constructor is same as Class Name.
+    - We can pass the arguments in constructor.
+    - we can make constructor overloading.
+    - Many Constructor are allowed inside the class.
+    - Constructor have various types.
+        - Default Constructor.
+        - Parametrized Constructor.
+        - Copy Constructor.
+
+    - Syntax of constructor is:
+        class className{
+
+        }
+
+
+De-Constructor:
+    - It de-allocate the memory of the object.
+    - De-Constructor is also automatically called when an object is creadted.
+    - Name of the is same as class name but starts with tidle.
+    - We can't pass any agrument in de constructor.
+    - But we can't make more then one de-constructor.
+    - Only one Constructor is Allowed inside the class.
+    - De-constructor don't have type.
+
+    Syntax of De-Constructor is: 
+        class className{
+            
+        }
