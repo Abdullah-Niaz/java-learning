@@ -21,6 +21,6 @@ public class defaultConstructorTypes {
     public static void main(String[] args){
         Person ps = new Person();
         System.out.println(ps.get_name());
-        System.out.println(ps.get_age());
+        System.out.println(ps.get_name());
     }
 }
