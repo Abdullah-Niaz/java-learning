@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "for_each",
+            "request": "launch",
+            "mainClass": "loops.for_each",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
             "name": "Rand_No_Array",
             "request": "launch",
             "mainClass": "Array.Rand_No_Array",
