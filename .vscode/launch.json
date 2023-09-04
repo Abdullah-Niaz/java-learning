@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "char_array_String",
+            "request": "launch",
+            "mainClass": "Strings.char_array_String",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
             "name": "for_each",
             "request": "launch",
             "mainClass": "loops.for_each",
