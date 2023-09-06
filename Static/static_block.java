@@ -9,7 +9,7 @@ class main {
         name = "Abdullah";
         roll = 20;
     }
-    
+
     static {
         System.out.print("Inside the Static");
         name = "Abdullah";
@@ -17,6 +17,7 @@ class main {
 
     public static void show() {
         System.out.println("Your Stored Name is: " + name);
+        
     }
 
 }
