@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "static_Method",
+            "request": "launch",
+            "mainClass": "Basic.static_Method",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "Static_Variable",
+            "request": "launch",
+            "mainClass": "Basic.Static_Variable",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "Mutable_Vs_Imutable",
+            "request": "launch",
+            "mainClass": "Strings.Mutable_Vs_Imutable",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "Syntax_Array",
+            "request": "launch",
+            "mainClass": "Strings.Syntax_Array",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
             "name": "char_array_String",
             "request": "launch",
             "mainClass": "Strings.char_array_String",

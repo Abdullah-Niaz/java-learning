@@ -1,4 +1,4 @@
-package Basic;
+package Static;
 
 class MyClass {
     public static int count; // Static variable

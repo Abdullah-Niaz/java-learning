@@ -1,4 +1,4 @@
-package Basic;
+package Static;
 class main{
     int n;
     static int m;
