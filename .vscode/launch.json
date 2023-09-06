@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "static_block",
+            "request": "launch",
+            "mainClass": "Static.static_block",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
             "name": "static_Method",
             "request": "launch",
             "mainClass": "Basic.static_Method",
