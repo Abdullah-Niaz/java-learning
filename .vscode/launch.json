@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "inheritance",
+            "request": "launch",
+            "mainClass": "oop.Principles.inheritance",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "super_Method",
+            "request": "launch",
+            "mainClass": "oop.super_Method",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "constructors",
+            "request": "launch",
+            "mainClass": "oop.constructors",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
             "name": "this_Keyword",
             "request": "launch",
             "mainClass": "oop.this_Keyword",

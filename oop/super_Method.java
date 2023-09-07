@@ -4,7 +4,7 @@ package oop;
 class A{
 
     public A(){
-        super():
+        super();
         System.out.println("IN A:");
     }
     public A(int n){
