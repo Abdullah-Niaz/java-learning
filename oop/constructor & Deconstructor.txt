@@ -26,6 +26,6 @@ De-Constructor:
     - De-constructor don't have type.
 
     Syntax of De-Constructor is: 
-        class className{
+        class ~className{
             
         }
