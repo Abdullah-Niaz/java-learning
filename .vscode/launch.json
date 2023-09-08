@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Vehicle_Hierarchy",
+            "request": "launch",
+            "mainClass": "oop.Principles.Inheritance.Vehicle_Hierarchy",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "Shape_Hierachy",
+            "request": "launch",
+            "mainClass": "oop.Principles.Inheritance.Shape_Hierachy",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "Shapes_Hierarchy",
+            "request": "launch",
+            "mainClass": "oop.Principles.Inheritance.Real_Examples.Shapes_Hierarchy",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
             "name": "inheritance",
             "request": "launch",
             "mainClass": "oop.Principles.inheritance",
