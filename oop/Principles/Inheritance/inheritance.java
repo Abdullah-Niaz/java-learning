@@ -1,4 +1,4 @@
-package oop.Principles.Inheritance;
+package oop.Principles;
 
 import java.lang.reflect.ParameterizedType;
 

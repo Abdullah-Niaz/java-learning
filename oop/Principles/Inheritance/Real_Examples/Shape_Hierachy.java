@@ -1,4 +1,4 @@
-package oop.Principles.Inheritance;
+package oop.Principles.Inheritance.Real_Examples;
 
 import javax.print.DocFlavor.STRING;
 

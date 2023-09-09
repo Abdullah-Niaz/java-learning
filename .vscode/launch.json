@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "flaws",
+            "request": "launch",
+            "mainClass": "oop.Principles.Inheritance.Real_Examples.flaws",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "Bank_Account",
+            "request": "launch",
+            "mainClass": "oop.Principles.Inheritance.Real_Examples.Bank_Account",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
             "name": "Vehicle_Hierarchy",
             "request": "launch",
             "mainClass": "oop.Principles.Inheritance.Vehicle_Hierarchy",

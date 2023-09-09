@@ -1,4 +1,4 @@
-package oop.Principles.Inheritance;
+package oop.Principles.Inheritance.Real_Examples;
 
 // You can model a vehicle hierarchy with a base class Vehicle and subclasses like Car, Bicycle, and Motorcycle. Each subclass inherits common attributes like speed and fuelCapacity from the Vehicle class.
 
