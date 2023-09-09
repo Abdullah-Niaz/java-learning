@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GeometricShapes",
+            "request": "launch",
+            "mainClass": "oop.Principles.Inheritance.Real_Examples.GeometricShapes",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
             "name": "LibraryManagementSystem",
             "request": "launch",
             "mainClass": "oop.Principles.Inheritance.Real_Examples.LibraryManagementSystem",
