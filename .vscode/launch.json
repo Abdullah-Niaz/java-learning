@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LibraryManagementSystem",
+            "request": "launch",
+            "mainClass": "oop.Principles.Inheritance.Real_Examples.LibraryManagementSystem",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "RemoteControlApp",
+            "request": "launch",
+            "mainClass": "oop.Principles.Inheritance.Real_Examples.RemoteControlApp",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "ZooManagementSystem",
+            "request": "launch",
+            "mainClass": "oop.Principles.Inheritance.Real_Examples.ZooManagementSystem",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "Electronic_Product",
+            "request": "launch",
+            "mainClass": "oop.Principles.Inheritance.Real_Examples.Electronic_Product",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "Fruit_Hirarchy",
+            "request": "launch",
+            "mainClass": "oop.Principles.Inheritance.Real_Examples.Fruit_Hirarchy",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "HRSystem",
+            "request": "launch",
+            "mainClass": "oop.Principles.Inheritance.Real_Examples.HRSystem",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
             "name": "flaws",
             "request": "launch",
             "mainClass": "oop.Principles.Inheritance.Real_Examples.flaws",
