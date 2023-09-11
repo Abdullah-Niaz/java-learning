@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "aggregation",
+            "request": "launch",
+            "mainClass": "oop.Principles.Inheritance.aggregation",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "anonymous_object",
+            "request": "launch",
+            "mainClass": "oop.anonymous_object",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
             "name": "this_super_method",
             "request": "launch",
             "mainClass": "this_super_method",
