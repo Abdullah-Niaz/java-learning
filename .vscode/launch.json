@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Access_Modifiers",
+            "request": "launch",
+            "mainClass": "oop.Access_Modifiers",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
             "name": "aggregation",
             "request": "launch",
             "mainClass": "oop.Principles.Inheritance.aggregation",
