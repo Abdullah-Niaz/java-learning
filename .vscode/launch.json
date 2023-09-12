@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "car_ex",
+            "request": "launch",
+            "mainClass": "oop.Principles.Compsition.car_ex",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
             "name": "Access_Modifiers",
             "request": "launch",
             "mainClass": "oop.Access_Modifiers",
