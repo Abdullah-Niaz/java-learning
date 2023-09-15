@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CWD_04_Post_Pre_Increment_Decrement",
+            "request": "launch",
+            "mainClass": "CWD.CWD_04_Post_Pre_Increment_Decrement",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "CWD_03_User_Input",
+            "request": "launch",
+            "mainClass": "CWD.CWD_03_User_Input",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "CWD_02_Data_Types",
+            "request": "launch",
+            "mainClass": "CWD.CWD_02_Data_Types",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "CWD_01_Data_Types",
+            "request": "launch",
+            "mainClass": "CWD.CWD_01_Data_Types",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
             "name": "CWD_01_Structure",
             "request": "launch",
             "mainClass": "CWD.CWD_01_Structure",
