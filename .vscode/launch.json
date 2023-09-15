@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CWD_01_Structure",
+            "request": "launch",
+            "mainClass": "CWD.CWD_01_Structure",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
             "name": "music_player_ex",
             "request": "launch",
             "mainClass": "oop.Principles.Compsition.music_player_ex",
