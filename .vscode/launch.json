@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "music_player_ex",
+            "request": "launch",
+            "mainClass": "oop.Principles.Compsition.music_player_ex",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "Computer_ex",
+            "request": "launch",
+            "mainClass": "oop.Principles.Compsition.Computer_ex",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
             "name": "car_ex",
             "request": "launch",
             "mainClass": "oop.Principles.Compsition.car_ex",
