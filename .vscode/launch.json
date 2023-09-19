@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Computer_ex",
+            "request": "launch",
+            "mainClass": "oop.Principles.Compsition.Computer_ex",
+            "projectName": "java-learning-_f76a8cae"
+        },
+        {
+            "type": "java",
+            "name": "imple_abstract",
+            "request": "launch",
+            "mainClass": "imple_abstract",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "abstract_keyword",
+            "request": "launch",
+            "mainClass": "abstract_keyword",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
             "name": "CWD_04_Post_Pre_Increment_Decrement",
             "request": "launch",
             "mainClass": "CWD.CWD_04_Post_Pre_Increment_Decrement",
