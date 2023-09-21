@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "inner_Class",
+            "request": "launch",
+            "mainClass": "oop.inner_Class",
+            "projectName": "java-learning-_f76a8cae"
+        },
+        {
+            "type": "java",
             "name": "CWD_06_Switch",
             "request": "launch",
             "mainClass": "CWD.CWD_06_Switch",
