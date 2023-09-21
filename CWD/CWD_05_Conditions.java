@@ -1,6 +1,6 @@
 package CWD;
 
-public class CWD_04_Conditions {
+public class CWD_05_Conditions {
 
     public static void main(String [] args){
         int a = 20 ;

@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CWD_06_Switch",
+            "request": "launch",
+            "mainClass": "CWD.CWD_06_Switch",
+            "projectName": "java-learning-_f76a8cae"
+        },
+        {
+            "type": "java",
+            "name": "CWD_04_Conditions",
+            "request": "launch",
+            "mainClass": "CWD.CWD_04_Conditions",
+            "projectName": "java-learning-_f76a8cae"
+        },
+        {
+            "type": "java",
             "name": "Computer_ex",
             "request": "launch",
             "mainClass": "oop.Principles.Compsition.Computer_ex",
