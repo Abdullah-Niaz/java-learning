@@ -26,6 +26,7 @@ class Toyata extends car{
 
 public class abstract_keyword {
     public static void main(String [] args){
+        // Abstract constructor can be initilized
         car obj = new Toyata();
         obj.CarDec("BMW", "2023", 7500);
         System.out.println(obj.name+" : "+obj.model+" : "+obj.price);
