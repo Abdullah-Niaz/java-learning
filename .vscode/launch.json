@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "needOfInterface",
+            "request": "launch",
+            "mainClass": "oop.needOfInterface",
+            "projectName": "java-learning-_f76a8cae"
+        },
+        {
+            "type": "java",
+            "name": "abstract_anonymous",
+            "request": "launch",
+            "mainClass": "oop.abstract_anonymous",
+            "projectName": "java-learning-_f76a8cae"
+        },
+        {
+            "type": "java",
+            "name": "anonymous_inner_class",
+            "request": "launch",
+            "mainClass": "oop.anonymous_inner_class",
+            "projectName": "java-learning-_f76a8cae"
+        },
+        {
+            "type": "java",
             "name": "inner_Class",
             "request": "launch",
             "mainClass": "oop.inner_Class",
