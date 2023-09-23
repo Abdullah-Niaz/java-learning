@@ -56,6 +56,18 @@ class KFCPerson extends person{
 
 }
 
+class TakeAwayChef extends person{
+
+    public TakeAwayChef(String surename, String firstname) {
+        super(surename, firstname);
+    }
+
+    public void cookDinner(){
+        System.out.println("Fried Rice`");
+    }
+
+}
+
 public class polymorphism {
     public static void main(String[] args) {
 
@@ -83,5 +95,30 @@ public class polymorphism {
         person kfc = new KFCPerson("Peter","Wong");
         kfc.getName();
         kfc.cookDinner();
+
+
+
+        System.out.println("\n\n==========TakeAwayChef============");
+        person TAC = new TakeAwayChef("kevin", "Chin");
+        TAC.getName();
+        TAC.cookDinner();
+
+        
+        
+        
+        person[] PList = new person[5];
+        PList[0] =  new person("Choudhary", "Smith");
+        PList[1] = new HoueWife("Theras", "Thomson");
+        PList[2] = new pizzaChef("Michel", "Hiel");
+        PList[3] = new KFCPerson("Peter","Wong");
+        PList[4] = new TakeAwayChef("kevin", "Chin");
+
+
+        System.out.println("\n\n==========Array============");
+        for(int i = 0 ; i <PList.length;i++){
+            PList[i].getName();
+            PList[i].cookDinner();
+            System.out.print("\n");
+        }
     }
 }
