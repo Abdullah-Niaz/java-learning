@@ -13,11 +13,21 @@ class B_ extends A_{
 
 public class anonymous_inner_class {
     public static void main(String[]args){
-        A_ a = new B_(){
+
+
+        A_ a = new A_();
+        a.show();
+        System.out.println("=======Anonymous===============");
+        
+        B_ b = new B_();
+        b.show();
+        System.out.println("=======Anonymous===============");
+        A_ c = new B_(){
             public void show(){
                 System.out.println("In New Show");
             }
         };
-        a.show();
+        System.out.println("=======Anonymous===============");
+        c.show();
     }
 }
