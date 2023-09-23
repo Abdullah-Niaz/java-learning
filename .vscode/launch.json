@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "polymorphism",
+            "request": "launch",
+            "mainClass": "U_EX_PR.polymorphism",
+            "projectName": "java-learning-_f76a8cae"
+        },
+        {
+            "type": "java",
             "name": "needOfInterface",
             "request": "launch",
             "mainClass": "needOfInterface",
