@@ -1,4 +1,7 @@
 package U_EX_PR;
+
+import Strings.intro;
+
 class Pet {
     public String speak()  { 
     return "Hi, I'm a happy and contented pet"; 
@@ -24,15 +27,19 @@ class Flamingo extends Pet {
 public class EX_3 {
     public static void main(String [] args){
         Pet p = new Pet();
+        System.out.println(p instanceof Pet);
         System.out.println(p.speak());
         
         Pet p1 = new Cat();
+        System.out.println(p1 instanceof Cat);
         System.out.println(p1.speak());
 
         Pet p2 = new Dog();
+        System.out.println(p2 instanceof Dog);
         System.out.println(p2.speak());
-        
+
         Pet p3 = new Flamingo();
+        System.out.println(p3 instanceof Flamingo);
         System.out.println(p3.speak());
     }
 }
