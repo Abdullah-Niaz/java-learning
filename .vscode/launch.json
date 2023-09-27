@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CWD_08_Updated_Switch_3",
+            "request": "launch",
+            "mainClass": "CWD.CWD_08_Updated_Switch_3",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
             "name": "CWD_07_Updated_Switch",
             "request": "launch",
             "mainClass": "CWD.CWD_07_Updated_Switch",
