@@ -1,6 +1,6 @@
 package CWD;
 
-public class CWD_11_Break_Continue {
+public class CWD_11_Break {
     public static void main(String []args){
         for(int i =0; i < 100; i++){
             if (i % 2 ==0){
