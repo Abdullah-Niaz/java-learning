@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CWD_11_Break_Continue",
+            "request": "launch",
+            "mainClass": "CWD.CWD_11_Break_Continue",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
             "name": "CWD_10_Do_While",
             "request": "launch",
             "mainClass": "CWD.CWD_10_Do_While",
