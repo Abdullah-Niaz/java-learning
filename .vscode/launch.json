@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CWD_10_Do_While",
+            "request": "launch",
+            "mainClass": "CWD.CWD_10_Do_While",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "CWD_09_While_Loop",
+            "request": "launch",
+            "mainClass": "CWD.CWD_09_While_Loop",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
             "name": "CWD_08_Updated_Switch_3",
             "request": "launch",
             "mainClass": "CWD.CWD_08_Updated_Switch_3",
