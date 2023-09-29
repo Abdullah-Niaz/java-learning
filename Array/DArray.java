@@ -10,7 +10,7 @@ public class DArray {
         int cols = sc.nextInt();
         
         int[][] aray = new int[row][cols];
-        int array[][] = {{},{}};
+        // int array[][] = {{},{}};
         System.out.print("Enter the Array Elements: ");
         for(int i = 0 ; i < row; i++){
             for(int j = 0; j < cols; j++){  // Fix the condition here
