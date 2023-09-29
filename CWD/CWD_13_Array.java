@@ -35,5 +35,11 @@ public class CWD_13_Array {
     for(int i = sta.length -1 ; i > 0 ; --i){
         System.out.println("Value is  : " + sta[i]);
     }
+
+
+    int stb[]  = {1,2,3,4,5,6};
+    for(int ele : stb){
+        System.out.println(ele);
+    }
 }   
 }
