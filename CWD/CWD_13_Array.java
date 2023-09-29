@@ -29,5 +29,11 @@ public class CWD_13_Array {
         System.out.println(stu[i]);
     }
 
+
+    // Printing array in Reverse Order
+    int sta[] = {2,3,4,5,6,7,9};
+    for(int i = sta.length -1 ; i > 0 ; --i){
+        System.out.println("Value is  : " + sta[i]);
+    }
 }   
 }
