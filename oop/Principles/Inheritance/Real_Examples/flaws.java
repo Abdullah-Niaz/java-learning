@@ -12,7 +12,7 @@ class A{
         System.out.println("Static Execuation Started: " + n);
     }
     public A(int n){
-        this.n = n;
+        A.n = n;
         System.out.println("In A Parameterized");
     }
 
@@ -34,7 +34,7 @@ class B extends A{
     }
     public B(int n, int m){
         super(n);
-        this.m = m;
+        B.m = m;
         System.out.println("In B Parameterized");
     }
 

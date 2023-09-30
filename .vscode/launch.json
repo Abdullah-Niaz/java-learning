@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "flaws",
+            "request": "launch",
+            "mainClass": "oop.Principles.Inheritance.Real_Examples.flaws",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
             "name": "DArray",
             "request": "launch",
             "mainClass": "Array.DArray",
