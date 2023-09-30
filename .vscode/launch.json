@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CWD_14_Array_input",
+            "request": "launch",
+            "mainClass": "CWD.CWD_14_Array_input",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
             "name": "flaws",
             "request": "launch",
             "mainClass": "oop.Principles.Inheritance.Real_Examples.flaws",
