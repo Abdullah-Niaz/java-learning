@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CWD_15_Multi_Dimensional_Array",
+            "request": "launch",
+            "mainClass": "CWD.CWD_15_Multi_Dimensional_Array",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
             "name": "CWD_14_Array_input",
             "request": "launch",
             "mainClass": "CWD.CWD_14_Array_input",
