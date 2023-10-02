@@ -13,7 +13,6 @@ public class CWD_15_Multi_Dimensional_Array {
             }
         }
 
-
         for(int i = 0; i < ar.length; i++){
             for(int j = 0 ; j < ar[i].length ; j++){
                 System.out.println(ar[i][j]);
