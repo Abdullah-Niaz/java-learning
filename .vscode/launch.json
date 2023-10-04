@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "intro",
+            "request": "launch",
+            "mainClass": "U_EX_PR.Mid_Term_Exam_Preparation.intro",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
             "name": "CWD_16_Accessing_Multi_Dimentional_Array",
             "request": "launch",
             "mainClass": "CWD.CWD_16_Accessing_Multi_Dimentional_Array",
