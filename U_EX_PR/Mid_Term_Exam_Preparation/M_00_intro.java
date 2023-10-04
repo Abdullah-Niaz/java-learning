@@ -27,7 +27,7 @@ class B{
         System.out.println("In B");
     }
 }
-public class intro {
+public class M_00_intro {
     int x = 20;
     static int add(int a , int b){
         return a + b;
@@ -36,7 +36,7 @@ public class intro {
         int add = add(2,3);
         System.out.println("Value of a: " + add);
 
-        intro my = new intro();
+        M_00_intro my = new M_00_intro();
         System.out.println("Value of X: " + my.x); //! Anther Method is to make it static
         // Calling the Class: 
         A a = new A();
