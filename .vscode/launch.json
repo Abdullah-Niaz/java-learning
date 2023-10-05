@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Single",
+            "request": "launch",
+            "mainClass": "U_EX_PR.Mid_Term_Exam_Preparation.inheritance.Single",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "M_02_Constructors",
+            "request": "launch",
+            "mainClass": "U_EX_PR.Mid_Term_Exam_Preparation.M_02_Constructors",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
             "name": "Calling_Method",
             "request": "launch",
             "mainClass": "U_EX_PR.Mid_Term_Exam_Preparation.Calling_Method",
