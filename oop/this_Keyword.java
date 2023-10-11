@@ -16,6 +16,7 @@ class main{
 
 public class this_Keyword {
 public static void main(String[] args){
+public static void main(String[] args){
     main m = new main();
     m.setN(20);
     System.out.println(m.getN());

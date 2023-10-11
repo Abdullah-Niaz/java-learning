@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "rectangle",
+            "request": "launch",
+            "mainClass": "Abdul_Bari_Java.Object_Oriented_Programming_11.writingClass.rectangle",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "circles",
+            "request": "launch",
+            "mainClass": "Abdul_Bari_Java.Object_Oriented_Programming_11.writingClass.circles",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
             "name": "test2",
             "request": "launch",
             "mainClass": "U_EX_PR.Mid_Term_Exam_Preparation.inheritance.test2",
