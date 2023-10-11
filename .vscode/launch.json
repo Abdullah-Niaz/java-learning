@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "test2",
+            "request": "launch",
+            "mainClass": "U_EX_PR.Mid_Term_Exam_Preparation.inheritance.test2",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "U_EX_PR.Mid_Term_Exam_Preparation.inheritance.test",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "Multiple",
+            "request": "launch",
+            "mainClass": "U_EX_PR.Mid_Term_Exam_Preparation.inheritance.Multiple",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "Hierachical",
+            "request": "launch",
+            "mainClass": "U_EX_PR.Mid_Term_Exam_Preparation.inheritance.Hierachical",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
             "name": "Multi_level",
             "request": "launch",
             "mainClass": "U_EX_PR.Mid_Term_Exam_Preparation.inheritance.Multi_level",

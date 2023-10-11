@@ -6,14 +6,14 @@ class A{
     System.out.println("GeekFor");
     }
 }
-class B extends A{
+class B_ extends A{
     public void geeks(){
     System.out.println("Geeks");
     }
 }
 public class Single {
     public static void main(String[] args){
-        B b = new B();
+        B_ b = new B_();
         b.geeksfor();
         b.geeks();
     }    

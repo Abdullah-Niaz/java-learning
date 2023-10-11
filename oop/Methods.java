@@ -1,5 +1,4 @@
 package oop;
-
 import Array.practiceArray;
 
 class computer{

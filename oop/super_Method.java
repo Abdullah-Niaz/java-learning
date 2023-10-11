@@ -1,6 +1,4 @@
 package oop;
-
-
 class A{
 
     public A(){
