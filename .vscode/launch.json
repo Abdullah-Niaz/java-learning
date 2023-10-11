@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "constructors",
+            "request": "launch",
+            "mainClass": "Abdul_Bari_Java.Object_Oriented_Programming_11.Constructors.constructors",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "student",
+            "request": "launch",
+            "mainClass": "Abdul_Bari_Java.Object_Oriented_Programming_11.writingClass.student",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
             "name": "rectangle",
             "request": "launch",
             "mainClass": "Abdul_Bari_Java.Object_Oriented_Programming_11.writingClass.rectangle",
