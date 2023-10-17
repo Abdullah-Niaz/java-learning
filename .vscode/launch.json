@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "method_Overloading",
+            "request": "launch",
+            "mainClass": "Abdul_Bari_Java.Object_Oriented_Programming_11.Method_Overriding.method_Overloading",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "super_",
+            "request": "launch",
+            "mainClass": "Abdul_Bari_Java.Object_Oriented_Programming_11.this_and_Super.super_",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "this_",
+            "request": "launch",
+            "mainClass": "Abdul_Bari_Java.Object_Oriented_Programming_11.this_and_Super.this_",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "parent_",
+            "request": "launch",
+            "mainClass": "parent_",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "Parameterized_Constructor",
+            "request": "launch",
+            "mainClass": "Abdul_Bari_Java.Object_Oriented_Programming_11.Constructors.Parameterized_Constructor",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "construtor",
+            "request": "launch",
+            "mainClass": "Abdul_Bari_Java.Object_Oriented_Programming_11.Constructors.construtor",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
             "name": "constructors",
             "request": "launch",
             "mainClass": "Abdul_Bari_Java.Object_Oriented_Programming_11.Constructors.constructors",
