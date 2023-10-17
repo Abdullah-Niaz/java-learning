@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Calling",
+            "request": "launch",
+            "mainClass": "Abdul_Bari_Java.Object_Oriented_Programming_11.Method_Overriding.Calling",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "MethodOverriding",
+            "request": "launch",
+            "mainClass": "Abdul_Bari_Java.Object_Oriented_Programming_11.Method_Overriding.MethodOverriding",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
             "name": "method_Overloading",
             "request": "launch",
             "mainClass": "Abdul_Bari_Java.Object_Oriented_Programming_11.Method_Overriding.method_Overloading",
