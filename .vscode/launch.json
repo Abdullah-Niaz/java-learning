@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "long_Q_05",
+            "request": "launch",
+            "mainClass": "U_EX_PR.Mid_Term_Exam_Preparation.Exam_Q.long_Q_05",
+            "projectName": "java-learning-_36b02717"
+        },
+        {
+            "type": "java",
             "name": "Short_Q_01",
             "request": "launch",
             "mainClass": "U_EX_PR.Mid_Term_Exam_Preparation.Exam_Q.Short_Q_01",
