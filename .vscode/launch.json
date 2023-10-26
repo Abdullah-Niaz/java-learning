@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CArithmeticException",
+            "request": "launch",
+            "mainClass": "Exceptions.CArithmeticException",
+            "projectName": "java-learning-_36b02717"
+        },
+        {
+            "type": "java",
+            "name": "ArithmeticException",
+            "request": "launch",
+            "mainClass": "Exceptions.ArithmeticException",
+            "projectName": "java-learning-_36b02717"
+        },
+        {
+            "type": "java",
             "name": "long_Q_06",
             "request": "launch",
             "mainClass": "U_EX_PR.Mid_Term_Exam_Preparation.Exam_Q.long_Q_06",
