@@ -29,7 +29,7 @@ class Dog implements Animal {
     }
     @Override
     public void sleep(){
-        System.out.println("Sleep!")
+        System.out.println("Sleep!");
     }
 }
 

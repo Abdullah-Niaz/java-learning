@@ -1,0 +1,966 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CArithmeticException",
+            "request": "launch",
+            "mainClass": "Exceptions.CArithmeticException",
+            "projectName": "java-learning-_36b02717"
+        },
+        {
+            "type": "java",
+            "name": "ArithmeticException",
+            "request": "launch",
+            "mainClass": "Exceptions.ArithmeticException",
+            "projectName": "java-learning-_36b02717"
+        },
+        {
+            "type": "java",
+            "name": "long_Q_06",
+            "request": "launch",
+            "mainClass": "U_EX_PR.Mid_Term_Exam_Preparation.Exam_Q.long_Q_06",
+            "projectName": "java-learning-_36b02717"
+        },
+        {
+            "type": "java",
+            "name": "long_Q_05",
+            "request": "launch",
+            "mainClass": "U_EX_PR.Mid_Term_Exam_Preparation.Exam_Q.long_Q_05",
+            "projectName": "java-learning-_36b02717"
+        },
+        {
+            "type": "java",
+            "name": "Short_Q_01",
+            "request": "launch",
+            "mainClass": "U_EX_PR.Mid_Term_Exam_Preparation.Exam_Q.Short_Q_01",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "anonymousfunction",
+            "request": "launch",
+            "mainClass": "Abdul_Bari_Java.Object_Oriented_Programming_11.Method_Overriding.anonymousfunction",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "Calling",
+            "request": "launch",
+            "mainClass": "Abdul_Bari_Java.Object_Oriented_Programming_11.Method_Overriding.Calling",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "MethodOverriding",
+            "request": "launch",
+            "mainClass": "Abdul_Bari_Java.Object_Oriented_Programming_11.Method_Overriding.MethodOverriding",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "method_Overloading",
+            "request": "launch",
+            "mainClass": "Abdul_Bari_Java.Object_Oriented_Programming_11.Method_Overriding.method_Overloading",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "super_",
+            "request": "launch",
+            "mainClass": "Abdul_Bari_Java.Object_Oriented_Programming_11.this_and_Super.super_",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "this_",
+            "request": "launch",
+            "mainClass": "Abdul_Bari_Java.Object_Oriented_Programming_11.this_and_Super.this_",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "parent_",
+            "request": "launch",
+            "mainClass": "parent_",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "Parameterized_Constructor",
+            "request": "launch",
+            "mainClass": "Abdul_Bari_Java.Object_Oriented_Programming_11.Constructors.Parameterized_Constructor",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "construtor",
+            "request": "launch",
+            "mainClass": "Abdul_Bari_Java.Object_Oriented_Programming_11.Constructors.construtor",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "constructors",
+            "request": "launch",
+            "mainClass": "Abdul_Bari_Java.Object_Oriented_Programming_11.Constructors.constructors",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "student",
+            "request": "launch",
+            "mainClass": "Abdul_Bari_Java.Object_Oriented_Programming_11.writingClass.student",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "rectangle",
+            "request": "launch",
+            "mainClass": "Abdul_Bari_Java.Object_Oriented_Programming_11.writingClass.rectangle",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "circles",
+            "request": "launch",
+            "mainClass": "Abdul_Bari_Java.Object_Oriented_Programming_11.writingClass.circles",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "test2",
+            "request": "launch",
+            "mainClass": "U_EX_PR.Mid_Term_Exam_Preparation.inheritance.test2",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "U_EX_PR.Mid_Term_Exam_Preparation.inheritance.test",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "Multiple",
+            "request": "launch",
+            "mainClass": "U_EX_PR.Mid_Term_Exam_Preparation.inheritance.Multiple",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "Hierachical",
+            "request": "launch",
+            "mainClass": "U_EX_PR.Mid_Term_Exam_Preparation.inheritance.Hierachical",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "Multi_level",
+            "request": "launch",
+            "mainClass": "U_EX_PR.Mid_Term_Exam_Preparation.inheritance.Multi_level",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "Single",
+            "request": "launch",
+            "mainClass": "U_EX_PR.Mid_Term_Exam_Preparation.inheritance.Single",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "M_02_Constructors",
+            "request": "launch",
+            "mainClass": "U_EX_PR.Mid_Term_Exam_Preparation.M_02_Constructors",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "Calling_Method",
+            "request": "launch",
+            "mainClass": "U_EX_PR.Mid_Term_Exam_Preparation.Calling_Method",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "intro",
+            "request": "launch",
+            "mainClass": "U_EX_PR.Mid_Term_Exam_Preparation.intro",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "CWD_16_Accessing_Multi_Dimentional_Array",
+            "request": "launch",
+            "mainClass": "CWD.CWD_16_Accessing_Multi_Dimentional_Array",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "CWD_15_Multi_Dimensional_Array",
+            "request": "launch",
+            "mainClass": "CWD.CWD_15_Multi_Dimensional_Array",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "CWD_14_Array_input",
+            "request": "launch",
+            "mainClass": "CWD.CWD_14_Array_input",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "flaws",
+            "request": "launch",
+            "mainClass": "oop.Principles.Inheritance.Real_Examples.flaws",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "DArray",
+            "request": "launch",
+            "mainClass": "Array.DArray",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "CWD_13_Array",
+            "request": "launch",
+            "mainClass": "CWD.CWD_13_Array",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "CWD_12_Continue",
+            "request": "launch",
+            "mainClass": "CWD.CWD_12_Continue",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "CWD_11_Break_Continue",
+            "request": "launch",
+            "mainClass": "CWD.CWD_11_Break_Continue",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "CWD_10_Do_While",
+            "request": "launch",
+            "mainClass": "CWD.CWD_10_Do_While",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "CWD_09_While_Loop",
+            "request": "launch",
+            "mainClass": "CWD.CWD_09_While_Loop",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "CWD_08_Updated_Switch_3",
+            "request": "launch",
+            "mainClass": "CWD.CWD_08_Updated_Switch_3",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "CWD_07_Updated_Switch",
+            "request": "launch",
+            "mainClass": "CWD.CWD_07_Updated_Switch",
+            "projectName": "java-learning-_683234f4"
+        },
+        {
+            "type": "java",
+            "name": "Interface",
+            "request": "launch",
+            "mainClass": "oop.Interface",
+            "projectName": "java-learning-_f76a8cae"
+        },
+        {
+            "type": "java",
+            "name": "EX_3",
+            "request": "launch",
+            "mainClass": "U_EX_PR.EX_3",
+            "projectName": "java-learning-_f76a8cae"
+        },
+        {
+            "type": "java",
+            "name": "EX_2",
+            "request": "launch",
+            "mainClass": "U_EX_PR.EX_2",
+            "projectName": "java-learning-_f76a8cae"
+        },
+        {
+            "type": "java",
+            "name": "EX_1",
+            "request": "launch",
+            "mainClass": "U_EX_PR.EX_1",
+            "projectName": "java-learning-_f76a8cae"
+        },
+        {
+            "type": "java",
+            "name": "polymorphism",
+            "request": "launch",
+            "mainClass": "U_EX_PR.polymorphism",
+            "projectName": "java-learning-_f76a8cae"
+        },
+        {
+            "type": "java",
+            "name": "needOfInterface",
+            "request": "launch",
+            "mainClass": "needOfInterface",
+            "projectName": "java-learning-_f76a8cae"
+        },
+        {
+            "type": "java",
+            "name": "needOfInterface",
+            "request": "launch",
+            "mainClass": "oop.needOfInterface",
+            "projectName": "java-learning-_f76a8cae"
+        },
+        {
+            "type": "java",
+            "name": "abstract_anonymous",
+            "request": "launch",
+            "mainClass": "oop.abstract_anonymous",
+            "projectName": "java-learning-_f76a8cae"
+        },
+        {
+            "type": "java",
+            "name": "anonymous_inner_class",
+            "request": "launch",
+            "mainClass": "oop.anonymous_inner_class",
+            "projectName": "java-learning-_f76a8cae"
+        },
+        {
+            "type": "java",
+            "name": "inner_Class",
+            "request": "launch",
+            "mainClass": "oop.inner_Class",
+            "projectName": "java-learning-_f76a8cae"
+        },
+        {
+            "type": "java",
+            "name": "CWD_06_Switch",
+            "request": "launch",
+            "mainClass": "CWD.CWD_06_Switch",
+            "projectName": "java-learning-_f76a8cae"
+        },
+        {
+            "type": "java",
+            "name": "CWD_04_Conditions",
+            "request": "launch",
+            "mainClass": "CWD.CWD_04_Conditions",
+            "projectName": "java-learning-_f76a8cae"
+        },
+        {
+            "type": "java",
+            "name": "Computer_ex",
+            "request": "launch",
+            "mainClass": "oop.Principles.Compsition.Computer_ex",
+            "projectName": "java-learning-_f76a8cae"
+        },
+        {
+            "type": "java",
+            "name": "imple_abstract",
+            "request": "launch",
+            "mainClass": "imple_abstract",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "abstract_keyword",
+            "request": "launch",
+            "mainClass": "abstract_keyword",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "CWD_04_Post_Pre_Increment_Decrement",
+            "request": "launch",
+            "mainClass": "CWD.CWD_04_Post_Pre_Increment_Decrement",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "CWD_03_User_Input",
+            "request": "launch",
+            "mainClass": "CWD.CWD_03_User_Input",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "CWD_02_Data_Types",
+            "request": "launch",
+            "mainClass": "CWD.CWD_02_Data_Types",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "CWD_01_Data_Types",
+            "request": "launch",
+            "mainClass": "CWD.CWD_01_Data_Types",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "CWD_01_Structure",
+            "request": "launch",
+            "mainClass": "CWD.CWD_01_Structure",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "music_player_ex",
+            "request": "launch",
+            "mainClass": "oop.Principles.Compsition.music_player_ex",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "Computer_ex",
+            "request": "launch",
+            "mainClass": "oop.Principles.Compsition.Computer_ex",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "car_ex",
+            "request": "launch",
+            "mainClass": "oop.Principles.Compsition.car_ex",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "Access_Modifiers",
+            "request": "launch",
+            "mainClass": "oop.Access_Modifiers",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "aggregation",
+            "request": "launch",
+            "mainClass": "oop.Principles.Inheritance.aggregation",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "anonymous_object",
+            "request": "launch",
+            "mainClass": "oop.anonymous_object",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "this_super_method",
+            "request": "launch",
+            "mainClass": "this_super_method",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "GeometricShapes",
+            "request": "launch",
+            "mainClass": "oop.Principles.Inheritance.Real_Examples.GeometricShapes",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "LibraryManagementSystem",
+            "request": "launch",
+            "mainClass": "oop.Principles.Inheritance.Real_Examples.LibraryManagementSystem",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "RemoteControlApp",
+            "request": "launch",
+            "mainClass": "oop.Principles.Inheritance.Real_Examples.RemoteControlApp",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "ZooManagementSystem",
+            "request": "launch",
+            "mainClass": "oop.Principles.Inheritance.Real_Examples.ZooManagementSystem",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "Electronic_Product",
+            "request": "launch",
+            "mainClass": "oop.Principles.Inheritance.Real_Examples.Electronic_Product",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "Fruit_Hirarchy",
+            "request": "launch",
+            "mainClass": "oop.Principles.Inheritance.Real_Examples.Fruit_Hirarchy",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "HRSystem",
+            "request": "launch",
+            "mainClass": "oop.Principles.Inheritance.Real_Examples.HRSystem",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "flaws",
+            "request": "launch",
+            "mainClass": "oop.Principles.Inheritance.Real_Examples.flaws",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "Bank_Account",
+            "request": "launch",
+            "mainClass": "oop.Principles.Inheritance.Real_Examples.Bank_Account",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "Vehicle_Hierarchy",
+            "request": "launch",
+            "mainClass": "oop.Principles.Inheritance.Vehicle_Hierarchy",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "Shape_Hierachy",
+            "request": "launch",
+            "mainClass": "oop.Principles.Inheritance.Shape_Hierachy",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "Shapes_Hierarchy",
+            "request": "launch",
+            "mainClass": "oop.Principles.Inheritance.Real_Examples.Shapes_Hierarchy",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "inheritance",
+            "request": "launch",
+            "mainClass": "oop.Principles.inheritance",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "super_Method",
+            "request": "launch",
+            "mainClass": "oop.super_Method",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "constructors",
+            "request": "launch",
+            "mainClass": "oop.constructors",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "this_Keyword",
+            "request": "launch",
+            "mainClass": "oop.this_Keyword",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "Ecapsulation",
+            "request": "launch",
+            "mainClass": "oop.Principles.Ecapsulation",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "static_block",
+            "request": "launch",
+            "mainClass": "Static.static_block",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "static_Method",
+            "request": "launch",
+            "mainClass": "Basic.static_Method",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "Static_Variable",
+            "request": "launch",
+            "mainClass": "Basic.Static_Variable",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "Mutable_Vs_Imutable",
+            "request": "launch",
+            "mainClass": "Strings.Mutable_Vs_Imutable",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "Syntax_Array",
+            "request": "launch",
+            "mainClass": "Strings.Syntax_Array",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "char_array_String",
+            "request": "launch",
+            "mainClass": "Strings.char_array_String",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "for_each",
+            "request": "launch",
+            "mainClass": "loops.for_each",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "Rand_No_Array",
+            "request": "launch",
+            "mainClass": "Array.Rand_No_Array",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "DArray",
+            "request": "launch",
+            "mainClass": "Array.DArray",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "array_intro",
+            "request": "launch",
+            "mainClass": "Array.array_intro",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "linearSearch",
+            "request": "launch",
+            "mainClass": "Array.linearSearch",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "practiceArray",
+            "request": "launch",
+            "mainClass": "Array.practiceArray",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "takinguserinput",
+            "request": "launch",
+            "mainClass": "Array.takinguserinput",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "CondtitionOperators",
+            "request": "launch",
+            "mainClass": "Basic.CondtitionOperators",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "Switch_Statements",
+            "request": "launch",
+            "mainClass": "Basic.Switch_Statements",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "TernaryOperator",
+            "request": "launch",
+            "mainClass": "Basic.TernaryOperator",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "Type_Conversion",
+            "request": "launch",
+            "mainClass": "Basic.Type_Conversion",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "Updated_Switch_Statements",
+            "request": "launch",
+            "mainClass": "Basic.Updated_Switch_Statements",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "Example2",
+            "request": "launch",
+            "mainClass": "Functions.Example2",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "Example3",
+            "request": "launch",
+            "mainClass": "Functions.Example3",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "Example1",
+            "request": "launch",
+            "mainClass": "Functions.Function_Exercise.Example1",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "demo",
+            "request": "launch",
+            "mainClass": "Functions.demo",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "fabinoci",
+            "request": "launch",
+            "mainClass": "Functions.fabinoci",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "Functions.factorial",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "Functions.sum",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "RemoveCharacterExample",
+            "request": "launch",
+            "mainClass": "Strings.RemoveCharacterExample",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "ex",
+            "request": "launch",
+            "mainClass": "Strings.ex",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "intro",
+            "request": "launch",
+            "mainClass": "Strings.intro",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "rec",
+            "request": "launch",
+            "mainClass": "Strings.rec",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "sbustr",
+            "request": "launch",
+            "mainClass": "Strings.sbustr",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "calculator",
+            "request": "launch",
+            "mainClass": "condition.calculator",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "cond",
+            "request": "launch",
+            "mainClass": "condition.cond",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "sw",
+            "request": "launch",
+            "mainClass": "condition.sw",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "input",
+            "request": "launch",
+            "mainClass": "input",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "dowhile",
+            "request": "launch",
+            "mainClass": "loops.dowhile",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "forloop",
+            "request": "launch",
+            "mainClass": "loops.forloop",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "while_loop",
+            "request": "launch",
+            "mainClass": "loops.while_loop",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "whileloop",
+            "request": "launch",
+            "mainClass": "loops.whileloop",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "Method_overlaoding",
+            "request": "launch",
+            "mainClass": "oop.Method_overlaoding",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "Methods",
+            "request": "launch",
+            "mainClass": "oop.Methods",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "Stack_Heap",
+            "request": "launch",
+            "mainClass": "oop.Stack_Heap",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "copyingConstructorType",
+            "request": "launch",
+            "mainClass": "oop.copyingConstructorType",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "defaultConstructorTypes",
+            "request": "launch",
+            "mainClass": "oop.defaultConstructorTypes",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "mainClass",
+            "request": "launch",
+            "mainClass": "oop.rectangle.mainClass",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "output",
+            "request": "launch",
+            "mainClass": "output",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "half_pyramid",
+            "request": "launch",
+            "mainClass": "patterns.half_pyramid",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "hollowRectangle",
+            "request": "launch",
+            "mainClass": "patterns.hollowRectangle",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "inverted_half_pyramid",
+            "request": "launch",
+            "mainClass": "patterns.inverted_half_pyramid",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "inverted_right_half",
+            "request": "launch",
+            "mainClass": "patterns.inverted_right_half",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "left_half_pyramid",
+            "request": "launch",
+            "mainClass": "patterns.left_half_pyramid",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "rectangle",
+            "request": "launch",
+            "mainClass": "patterns.rectangle",
+            "projectName": "java-learning-_126c003d"
+        },
+        {
+            "type": "java",
+            "name": "variable",
+            "request": "launch",
+            "mainClass": "variable",
+            "projectName": "java-learning-_126c003d"
+        }
+    ]
+}
