@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "insert",
+            "request": "launch",
+            "mainClass": "insert",
+            "projectName": "java-learning-_7a13df3b"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "java-learning-_7a13df3b"
+        },
+        {
+            "type": "java",
             "name": "hello",
             "request": "launch",
             "mainClass": "hello",
