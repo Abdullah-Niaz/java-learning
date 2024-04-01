@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "variable",
+            "request": "launch",
+            "mainClass": "variable",
+            "projectName": "java-learning-_7a13df3b"
+        },
+        {
+            "type": "java",
             "name": "insert",
             "request": "launch",
             "mainClass": "insert",
